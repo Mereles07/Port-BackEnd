@@ -1,4 +1,3 @@
-
 package com.proyectointegrador.proyecto_integrador.Entidad;
 
 import jakarta.persistence.Entity;

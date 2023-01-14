@@ -1,4 +1,3 @@
-
 package com.proyectointegrador.proyecto_integrador.Seguridad.Repositorio;
 
 import com.proyectointegrador.proyecto_integrador.Seguridad.Entidad.Usuario;
